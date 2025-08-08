@@ -1,0 +1,17 @@
+funcionarios:
+  - nome: "Maria Silva"
+    periodos:
+      - inicio: "2025-01-10"
+        fim: "2025-01-20"
+      - inicio: "2025-06-15"
+        fim: "2025-06-25"
+      - inicio: "2025-11-01"
+        fim: "2025-11-10"
+  - nome: "João Souza"
+    periodos:
+      - inicio: "2025-02-05"
+        fim: "2025-02-15"
+      - inicio: "2025-07-10"
+        fim: "2025-07-20"
+      - inicio: "2025-12-01"
+        fim: "2025-12-10"
